@@ -9,7 +9,6 @@ import { MatToolbarModule }  from '@angular/material/toolbar';
 import { MatPaginatorModule }  from '@angular/material/paginator';
 import { MatCardModule } from '@angular/material/card';
 
-
 import { BrowserAnimationsModule} from "@angular/platform-browser/animations";
 import { HttpClientModule } from "@angular/common/http"
 import { NewsService } from "./services/news.service";
